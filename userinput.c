@@ -2,9 +2,9 @@
 
 int main(void){
 
-/*This is y second program*/
+/*This is my second program*/
 int age;
-printf("Hi, how old are you?");
+printf("Hi, how old are you? >");
 scanf("%d", &age);
 printf("You are %d years old", age);
 return(0);
